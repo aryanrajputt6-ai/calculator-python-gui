@@ -1,21 +1,16 @@
-# 🧮 Python GUI Calculator
+# 🧮 Python Calculator
 
-A modern and professional calculator built using Python and Tkinter.
+A simple calculator built using Python and Tkinter.
 
-## 🚀 Features
-- Basic arithmetic operations
-- Clean dark UI
-- Keyboard support
-- Backspace function
-- Error handling
+## Features
+- Addition, subtraction, multiplication, division
+- Clean UI
+- Easy to use
 
-## 🛠️ Tech Used
-- Python
-- Tkinter
+## How to Run
+1. Download the file
+2. Run:
+   python calculator.py
 
-## 📸 Preview
-(Add screenshot here)
-
-## 📂 How to Run
-```bash
-python calculator.py 
+## Author
+Aryan Rajput
